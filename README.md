@@ -1,5 +1,6 @@
 # SidelineScout
-![SidelineScout Logo](https://github.com/JordanHalas/SidelineScout/raw/main/SidelineScoutLOGO.webp)
+<img src="https://github.com/JordanHalas/SidelineScout/raw/main/SidelineScoutLOGO.webp" alt="SidelineScout Logo" width="200"/>
+
 
 
 
