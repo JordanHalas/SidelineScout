@@ -1,6 +1,6 @@
 # SidelineScout
-<img src="https://github.com/JordanHalas/SidelineScout/raw/main/SidelineScoutLOGO.webp" alt="SidelineScout Logo" width="200"/>
-
+<img src="https://github.com/JordanHalas/SidelineScout/raw/main/SidelineScoutLOGO.webp" alt="SidelineScout Logo" width="400"/>
+# Call to Action
 
 
 
