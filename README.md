@@ -7,6 +7,7 @@ The ramifications can extend far beyond the game itself.
 
 While mistakes are inevitable, ongoing efforts to improve officiating through training, technology, and rule adjustments demonstrate a commitment to minimizing errors and ensuring the fairest outcomes possible.
 
-# Phase 1 - In or Out-ofBounds
+# Phase 1 
+# In or Out-ofBounds
 
 [View Data Deck](https://docs.google.com/presentation/d/1s-3XwArqzks6DPu_DDcLldfSc8wgA9nYkfS7Ku21uXY/edit?usp=sharing)
