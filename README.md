@@ -9,4 +9,6 @@ While mistakes are inevitable, ongoing efforts to improve officiating through tr
 
 # Phase 1 In or Out-of-Bounds
 
+while they may seem like simple white lines on the field, the sidelines and out-of-bounds are integral to the structure, strategy, and thrill of football.
+
 [View Data Deck](https://docs.google.com/presentation/d/1s-3XwArqzks6DPu_DDcLldfSc8wgA9nYkfS7Ku21uXY/edit?usp=sharing)
