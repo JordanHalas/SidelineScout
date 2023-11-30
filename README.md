@@ -8,7 +8,7 @@ The ramifications can extend far beyond the game itself.
 # Phase 1 Maximizing Officiating
 <img src="https://github.com/JordanHalas/SidelineScout/raw/main/FalseStart1.png" alt="Image Alt Text" width="200"/>
 <img src="https://github.com/JordanHalas/SidelineScout/blob/main/FalseStart2.png" alt="Image Alt Text" width="200"/>
-<img src="https://github.com/JordanHalas/SidelineScout/raw/main/FalseStart1.png" alt="Image Alt Text" width="200"/>
+<img src="https://github.com/JordanHalas/SidelineScout/blob/main/HoldingPose3.png" alt="Image Alt Text" width="200"/>
 
 [View Data Deck](https://docs.google.com/presentation/d/1s-3XwArqzks6DPu_DDcLldfSc8wgA9nYkfS7Ku21uXY/edit?usp=sharing)
 
