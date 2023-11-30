@@ -7,7 +7,7 @@ The ramifications can extend far beyond the game itself.
 
 Mistakes should be limited to only the player's and coaches's efforts in seeking a victory. Our ongoing efforts aims to improve officiating by further integration of A.I . training, technology, and rule adjustments demonstrate a commitment to minimizing errors and ensuring the fairest outcomes possible.
 
-# Phase 1 In or Out-of-Bounds
+# Phase 1 
 
 [View Data Deck](https://docs.google.com/presentation/d/1s-3XwArqzks6DPu_DDcLldfSc8wgA9nYkfS7Ku21uXY/edit?usp=sharing)
 
