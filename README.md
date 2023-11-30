@@ -11,9 +11,9 @@ Sideline Scout believes in Rules. More imprtantly, we believe is consistency. Re
 
 <img src="https://github.com/JordanHalas/SidelineScout/raw/main/FalseStart1.png" alt="Image Alt Text" width="200"/>
 <img src="https://github.com/JordanHalas/SidelineScout/blob/main/FalseStart2.png" alt="Image Alt Text" width="200"/>
-<img src="https://github.com/JordanHalas/SidelineScout/blob/main/HoldingPose3.png" alt="Image Alt Text" width="200"/>
+<img src="https://github.com/JordanHalas/SidelineScout/blob/main/FalseStart3.png" alt="Image Alt Text" width="200"/>
 
-[](https://docs.google.com/presentation/d/1flHv4ys7hqtWPr6Scjil9JMpQmDz6lFumikzIGEu8P0/edit?usp=sharing)
+[Referee Signal Data Deck](https://docs.google.com/presentation/d/1flHv4ys7hqtWPr6Scjil9JMpQmDz6lFumikzIGEu8P0/edit?usp=sharing)
 
 
 
