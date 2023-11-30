@@ -5,7 +5,7 @@ The ramifications can extend far beyond the game itself.
 
 <img src="https://github.com/JordanHalas/SidelineScout/raw/main/SidelineScoutLOGO.webp" alt="SidelineScout Logo" width="400"/>
 
-While mistakes are inevitable, ongoing efforts to improve officiating through training, technology, and rule adjustments demonstrate a commitment to minimizing errors and ensuring the fairest outcomes possible.
+Mistakes should be limited to only the player's and coaches's efforts in seeking a victory. Our ongoing efforts aims to improve officiating by further integration of A.I . training, technology, and rule adjustments demonstrate a commitment to minimizing errors and ensuring the fairest outcomes possible.
 
 # Phase 1 In or Out-of-Bounds
 
