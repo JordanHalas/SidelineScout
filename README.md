@@ -6,7 +6,7 @@ The impact of a referee's mistake can be significant. A missed call on a game-ch
 The ramifications can extend far beyond the game itself.
 
 # Phase 1 Maximizing Officiating
-<img src="https://github.com/JordanHalas/SidelineScout/raw/main/FalseStart1.png" alt="Image Alt Text" width="150"/>
+<img src="https://github.com/JordanHalas/SidelineScout/raw/main/FalseStart1.png" alt="Image Alt Text" width="200"/>
 
 
 
