@@ -18,6 +18,6 @@ Sideline Scout believes in Rules. More imprtantly, we believe is consistency. Re
 
 [Referee Signal Data Deck](https://docs.google.com/presentation/d/1flHv4ys7hqtWPr6Scjil9JMpQmDz6lFumikzIGEu8P0/edit?usp=sharing)
 
-<img src="https://github.com/JordanHalas/SidelineScout/raw/main/SidelineScoutLOGO.webp" alt="SidelineScout Logo" width="400"/>
+<img src="https://raw.githubusercontent.com/JordanHalas/SidelineScout/main/SidelineScoutLOGO1.png" alt="SidelineScout Logo" width="400"/>
 
 [View Data Deck](https://docs.google.com/presentation/d/1s-3XwArqzks6DPu_DDcLldfSc8wgA9nYkfS7Ku21uXY/edit?usp=sharing)
