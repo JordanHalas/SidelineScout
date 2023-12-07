@@ -1,12 +1,6 @@
 # SidelineScout
 <img src="https://github.com/JordanHalas/SidelineScout/raw/main/SidelineScoutLOGO.webp" alt="SidelineScout Logo" width="400"/>
 
-Mistakes should be limited to only the player's and coaches's efforts in seeking a victory. Our ongoing efforts aims to improve officiating by further integration of A.I .
-The impact of a referee's mistake can be significant. A missed call on a game-changing play can alter the outcome and lead to frustration among players, coaches, and fans. 
-The ramifications can extend far beyond the game itself.
-
-# Phase 1 
-# Maximizing Officiating
 [Presentation](https://fau-my.sharepoint.com/:p:/g/personal/jhalas2021_fau_edu/EZ--zg667HVLrJrXBCmoWNgBPlgiJJStSz_NIHlhPvjUtA?e=xDhF6S)
 
 Sideline Scout believes in Rules. More imprtantly, we believe is consistency. Referees are the only people who can make an official call on the field. Despite what camera evidence or eye-wittness may show, it all comes down to the Refs. The universal language between Officals and Players is a nessecarry to minimize confusion and double down on the rules.
