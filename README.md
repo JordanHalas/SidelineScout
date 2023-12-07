@@ -8,7 +8,7 @@
 
 <img src="https://github.com/JordanHalas/SidelineScout/raw/main/FalseStart1.png" alt="Image Alt Text" width="200"/>
 <img src="https://raw.githubusercontent.com/JordanHalas/SidelineScout/main/TDpose1.png" alt="Image Alt Text" width="200"/>
-<img src="https://github.com/JordanHalas/SidelineScout/blob/main/FalseStart3.png" alt="Image Alt Text" width="200"/>
+<img src="https://raw.githubusercontent.com/JordanHalas/SidelineScout/main/HoldingPose1.png" alt="Image Alt Text" width="200"/>
 
 [Referee Signal Data Deck](https://docs.google.com/presentation/d/1flHv4ys7hqtWPr6Scjil9JMpQmDz6lFumikzIGEu8P0/edit?usp=sharing)
 
