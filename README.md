@@ -1,6 +1,7 @@
 # SidelineScout
 
 <img src="https://raw.githubusercontent.com/JordanHalas/SidelineScout/main/SidelineScoutLOGO1.png" alt="SidelineScout Logo" width="400"/>
+
 [Presentation](https://fau-my.sharepoint.com/:p:/g/personal/jhalas2021_fau_edu/EZ--zg667HVLrJrXBCmoWNgBPlgiJJStSz_NIHlhPvjUtA?e=xDhF6S)
 
 [View Data Deck](https://docs.google.com/presentation/d/1s-3XwArqzks6DPu_DDcLldfSc8wgA9nYkfS7Ku21uXY/edit?usp=sharing)
