@@ -14,6 +14,6 @@
 
 
 
-<img src="https://raw.githubusercontent.com/JordanHalas/SidelineScout/main/SidelineScoutLOGO1.png" alt="SidelineScout Logo" width="400"/>
+[My GitHub](https://github.com/JordanHalas/Halas-Fall-2023/blob/main/README.md)
 
 
